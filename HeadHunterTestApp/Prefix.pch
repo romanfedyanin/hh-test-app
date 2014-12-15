@@ -1,0 +1,16 @@
+//
+//  Prefix.pch
+//  HeadHunterTestApp
+//
+//  Created by Roman Fedyanin on 14/12/14.
+//  Copyright (c) 2014 Roman. All rights reserved.
+//
+
+#ifndef HeadHunterTestApp_Prefix_pch
+#define HeadHunterTestApp_Prefix_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "CommonMacroses.h"
+
+#endif
